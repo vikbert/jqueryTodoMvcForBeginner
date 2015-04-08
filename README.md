@@ -19,23 +19,23 @@ $ bower install
 ```
 
 ##  Fundamental jQuery in one Week
-### DAY 1: The function `$()` and its signatur in jQuery
-### DAY 2: Common used `selector ` in jQuery
-### DAY 3: Deal with jQuery `collection`
-### DAY 4: `Traversing` from jQuery collection
-### DAY 5: `Events` and Events-handling
-### DAY 6: `DOM` manipulation
-### DAY 7: `Ajax` & `Json`
+#### DAY 1: The function `$()` and its signatur in jQuery
+#### DAY 2: Common used `selector ` in jQuery
+#### DAY 3: Deal with jQuery `collection`
+#### DAY 4: `Traversing` from jQuery collection
+#### DAY 5: `Events` and Events-handling
+#### DAY 6: `DOM` manipulation
+#### DAY 7: `Ajax` & `Json`
 
 
 ##  Advanced jQuery in another week
-### DAY 1: Deferreds and `Promises`
-### DAY 2: Manage `callback` in jQuery
-### DAY 3: `Utilities` of jQuery object
-### DAY 4: Implement a simple jQuery `plugin`
-### DAY 5: Use `namespaces` in jQuery
-### DAY 6: `jUnit` Test 
-### DAY 7: jQuery `Object orientation`
+#### DAY 1: Deferreds and `Promises`
+#### DAY 2: Manage `callback` in jQuery
+#### DAY 3: `Utilities` of jQuery object
+#### DAY 4: Implement a simple jQuery `plugin`
+#### DAY 5: Use `namespaces` in jQuery
+#### DAY 6: `jUnit` Test 
+#### DAY 7: jQuery `Object orientation`
 
 
 
